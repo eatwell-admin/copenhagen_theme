@@ -1,7 +1,7 @@
 {
-  "name": "Eatwell",
-  "author": "Octocat",
-  "version": "2.2.0",
+  "name": "Copenhagen",
+  "author": "Zendesk",
+  "version": "2.2.4",
   "api_version": 2,
   "default_locale": "en-us",
   "settings": [
