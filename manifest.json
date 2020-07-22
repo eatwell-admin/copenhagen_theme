@@ -13,7 +13,7 @@
           "type": "color",
           "description": "brand_color_description",
           "label": "brand_color_label",
-          "value": "#006936"
+          "value": "#0072EF"
         },
         {
           "identifier": "brand_text_color",
@@ -34,7 +34,7 @@
           "type": "color",
           "description": "link_color_description",
           "label": "link_color_label",
-          "value": "#006936"
+          "value": "#1F73B7"
         },
         {
           "identifier": "background_color",
@@ -42,13 +42,6 @@
           "description": "background_color_description",
           "label": "background_color_label",
           "value": "#FFFFFF"
-        },
-        {
-          "identifier": "my_favourite_color",
-          "type": "color",
-          "description": "I'm testing adding a new setting to this group",
-          "label": "background_color_label",
-          "value": "#006936"
         }
       ]
     },
@@ -194,7 +187,10 @@
               "label": "Lucida Grande",
               "value": "'Lucida Grande', 'Lucida Sans', 'Lucida Sans Unicode', sans-serif"
             },
-
+            {
+              "label": "Trebuchet MS",
+              "value": "'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif"
+            }
           ],
           "value": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
         }
